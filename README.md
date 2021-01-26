@@ -1,5 +1,5 @@
 # Recipe-app-api
-Source code for recipe app api.
+## Source code for recipe app api.
 
 A fully functioning REST API using:
 
